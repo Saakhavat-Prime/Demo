@@ -14,4 +14,8 @@ This project is available under the MIT License.
 ---
 
 Created for demonstration and learning purposes.
+# Demo Project
+
+A simple demo project created for learning and practice purposes.
+
 
